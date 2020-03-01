@@ -1,5 +1,5 @@
 # Escape the room
-Demonstration video: https://music-transcription-software.000webhostapp.com/projects/escape_the_room.html 
+Demonstration video: http://www.lukas-graber.tk/projects/escape_the_room.html 
   
 ![alt text](https://github.com/lulu98/escape-the-room/blob/master/thumbnail.png)
 ## Introduction
